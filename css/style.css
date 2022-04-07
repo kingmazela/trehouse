@@ -1,0 +1,41 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.form{
+	background-image: url("../img/R.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 90vh;
+}
+.card{
+	margin: 0px 250px 100px 250px;
+	padding: 10px 100px 100px 100px;
+	background: rgba(0,0,255,0.5);
+}
+.card label{
+	color: #f1f1f1;
+	line-height: 50px;
+}
+.form h2{
+	font-size: 2vw;
+	font-family: "Arial", sans-sirif;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.form label{
+	font-size: 24px;
+}
+.form input[type=submit]{
+	margin-top: 50px;
+	width: 100%;
+	height: 30px;
+	font-size: 16px;
+}
+.card span{
+	color: red;
+	font-weight: 500;
+	
+}
